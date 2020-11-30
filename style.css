@@ -1,0 +1,152 @@
+.html{
+  overscroll-behavior: smooth;
+}
+.header{
+  background: #123;
+}
+img{
+  width: 100%;
+}
+.logo img{
+  width: 210px;
+}
+.nav-menu{
+  
+}
+.nav-menu ul{
+  list-style: none;
+}
+.nav-menu ul li{
+  display: inline-block;
+}
+.nav-menu ul li a{
+  color: #fff;
+  font-size: 17px;
+  display: block;
+  padding: 0 20px;
+  margin-top: 25px;
+  text-decoration: none;
+}
+.banner{
+  
+  background-position: center;
+  background-image: url('https://i.ibb.co/w68T6SX/Bana.jpg');
+  padding: 210px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.b-text h2{
+  color: #fff;
+  font-size: 28px;
+  display: red;
+  background: rgba(175,80,170,0.6);
+  max-width: 120px;
+  margin: auto;
+  padding-top: 10px 0;
+  margin-top: auto;
+  border-radius: 5px;
+}
+.b-text p{
+  color: #fff;
+  font-size: 30px;
+  display: tomato;
+  max-width: 320px;
+  margin-top: 20px;
+  padding-top: 10px 0;
+  border-radius: 5px;
+  background-color: rgba(39,159,265,0.6);
+}
+.About{
+  font-size: 30px;
+  margin-top: 20px;
+  padding-top: 5px 0;
+  background-color: rgba(245,244,244,0.947);
+}
+.Service{
+  
+}
+.card{
+  background: #34495e;
+}
+.Service span{
+  font-size: 50px;
+  color: #fff;
+  background: #3498db;
+  width: 60px;
+  
+  height: 60px;
+  margin: auto;
+  margin-top: 10px;
+  display: block;
+  line-height: 60px;
+  border-radius: 20px 5px 20px 5px;
+}
+.Service h1{
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.Service h2{
+  color: #fff;
+  font-size: 40px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.Service p{
+  color: #fff;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.product-item img{
+  width: 180px;
+  margin-top: 8px;
+  display: block;
+}
+.Blog h1{
+  font-size: 50px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+.product-item p{
+  font-size: 19px;
+  margin-left: 50px;
+}
+.notice h2{
+  font-size: 30px;
+  border-bottom: 2px solid orange;
+  color: tomato;
+}
+.notice ul{
+  list-style: none;
+}
+.notice ul li{
+  color: green;
+  display: inline-block;
+  border: 1px solid #ddd;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border-radius: 2px;
+}
+.Footer{
+  background: #2c3e50;
+}
+.Footer p{
+  color: #fff;
+  font-size: 18px;
+  margin-top: 20px;
+}
+.footer-right{
+  text-align: right;
+}
+.footer-right li{
+  display: inline-block;
+  list-style: none;
+}
+.footer-right li a{
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  padding: 8px 10px;
+  margin-top: 10px;
+  text-decoration: none;
+}
